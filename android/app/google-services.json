@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559621978440",
+    "project_id": "myplayer-f2f41",
+    "storage_bucket": "myplayer-f2f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559621978440:android:c910947dccd3753d3fdb7d",
+        "android_client_info": {
+          "package_name": "com.example.audiobook_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559621978440-mhcg36ksmmmflq0c5asoqabnfnkecopv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBygGv34ORaN4oIzHtH9rHh-lKqufwCME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559621978440-mhcg36ksmmmflq0c5asoqabnfnkecopv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

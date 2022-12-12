@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.iml" filepath="$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/834189377/android.audio_service.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-279322550/android.audio_session.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-32876034/android.cloud_firestore.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1349234927/android.firebase_core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.iml" filepath="$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1902155889/android.just_audio.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/864611682/android.path_provider_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2112605772/android.sqflite.unitTest.iml" />
+    </modules>
+  </component>
+</project>
